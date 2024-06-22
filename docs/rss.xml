@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>wuse's blog</title><link>https://skittle-wuse.github.io</link><description>Welcome to wuse's blog</description><copyright>wuse's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://webstatic.mihoyo.com/upload/contentweb/2022/11/29/e6f9e89c89330b23573400fff27905c0_3365269422927792583.png</url><title>avatar</title><link>https://skittle-wuse.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 06:31:49 +0000</lastBuildDate><managingEditor>wuse's blog</managingEditor><ttl>60</ttl><webMaster>wuse's blog</webMaster><item><title>Soviet 10更新</title><link>https://skittle-wuse.github.io/post/Soviet%2010-geng-xin.html</link><description>Soviet 10 2406版正式发布&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>wuse's blog</title><link>https://skittle-wuse.github.io</link><description>Welcome to wuse's blog</description><copyright>wuse's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://webstatic.mihoyo.com/upload/contentweb/2022/11/29/e6f9e89c89330b23573400fff27905c0_3365269422927792583.png</url><title>avatar</title><link>https://skittle-wuse.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 06:34:52 +0000</lastBuildDate><managingEditor>wuse's blog</managingEditor><ttl>60</ttl><webMaster>wuse's blog</webMaster><item><title>Soviet11 五一更新</title><link>https://skittle-wuse.github.io/post/Soviet11%20-wu-yi-geng-xin.html</link><description>祝同志们五一劳动节快乐！&#13;
+Soviet 11 24H2正式发布&#13;
+更新内容：&#13;
+1.内核更新到26100.1&#13;
+2.新的安装界面&#13;
+3.优化字体显示效果&#13;
+win11 24H2的壁纸默认是“Windows 聚焦”，所以默认壁纸可能每次安装都不一样，不过可以手动改回Soviet壁纸下载：群文件里的SovietOS都是些老掉牙的版本，建议去群公告链接下载。</description><guid isPermaLink="true">https://skittle-wuse.github.io/post/Soviet11%20-wu-yi-geng-xin.html</guid><pubDate>Sat, 22 Jun 2024 06:34:30 +0000</pubDate></item><item><title>Soviet 10更新</title><link>https://skittle-wuse.github.io/post/Soviet%2010-geng-xin.html</link><description>Soviet 10 2406版正式发布&#13;
 更新内容：&#13;
 1.版本号更新为19045.4529&#13;
 2.加入新版微软雅黑字体&#13;
