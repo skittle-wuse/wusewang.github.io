@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>wuse's blog</title><link>https://skittle-wuse.github.io</link><description>Welcome to wuse's blog</description><copyright>wuse's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://webstatic.mihoyo.com/upload/contentweb/2022/11/29/e6f9e89c89330b23573400fff27905c0_3365269422927792583.png</url><title>avatar</title><link>https://skittle-wuse.github.io</link></image><lastBuildDate>Sun, 23 Jun 2024 13:15:52 +0000</lastBuildDate><managingEditor>wuse's blog</managingEditor><ttl>60</ttl><webMaster>wuse's blog</webMaster><item><title>Soviet11 五一更新</title><link>https://skittle-wuse.github.io/post/Soviet11%20-wu-yi-geng-xin.html</link><description>祝同志们五一劳动节快乐！&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>wuse's blog</title><link>https://skittle-wuse.github.io</link><description>Welcome to wuse's blog</description><copyright>wuse's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://webstatic.mihoyo.com/upload/contentweb/2022/11/29/e6f9e89c89330b23573400fff27905c0_3365269422927792583.png</url><title>avatar</title><link>https://skittle-wuse.github.io</link></image><lastBuildDate>Mon, 01 Jul 2024 00:14:59 +0000</lastBuildDate><managingEditor>wuse's blog</managingEditor><ttl>60</ttl><webMaster>wuse's blog</webMaster><item><title>Soviet 11 23H2 V2.2406</title><link>https://skittle-wuse.github.io/post/Soviet%2011%2023H2%20V2.2406.html</link><description>Soviet 11 23H2 V2.2406 正式发布&#13;
+由于Win11 24H2版本对老旧电脑的兼容性下降，我们将继续为Soviet 11 23H2提供更新&#13;
+更新内容：&#13;
+1.版本号更新到22631.3737&#13;
+2.更换了默认壁纸&#13;
+3.优化字体显示效果&#13;
+4.修改winver图片为红色&#13;
+&#13;
+&#13;
+&#13;
+huang2.cn(不包括下属域名)提供的镜像早已过时，请转至&#13;
+http://pe.huang2.cn&#13;
+https://sovieti9308.github.io&#13;
+下载最新版SovietOS。</description><guid isPermaLink="true">https://skittle-wuse.github.io/post/Soviet%2011%2023H2%20V2.2406.html</guid><pubDate>Mon, 01 Jul 2024 00:14:21 +0000</pubDate></item><item><title>Soviet11 五一更新</title><link>https://skittle-wuse.github.io/post/Soviet11%20-wu-yi-geng-xin.html</link><description>祝同志们五一劳动节快乐！&#13;
 Soviet 11 24H2正式发布&#13;
 更新内容：&#13;
 1.内核更新到26100.1&#13;
